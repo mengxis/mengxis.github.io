@@ -1,0 +1,17 @@
+main:
+
+  - title: Misspecified Persuasion
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    # conference_short: MICCAI
+    conference: 34th Stony Brook International Conference on Game Theory (2023).
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: Bayesian Persuasion with Confirmation Bias
+    conference: 17th Economics Graduate Student Conference held by Washington University in St. Louis (2022).
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # notes: Oral Presentation
+    
