@@ -1,5 +1,7 @@
 main:
 
+  - title: Selective Learning of Epistemic Types
+  
   - title: Misspecified Persuasion
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
@@ -13,7 +15,5 @@ main:
   - title: Bayesian Persuasion with Confirmation Bias
     conference: 17th Economics Graduate Student Conference held by Washington University in St. Louis (2022).
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # notes: Oral Presentation
-
-  - title: Selective Learning of Epistemic Types
+    # notes: 
     
