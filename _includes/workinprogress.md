@@ -12,7 +12,7 @@
       <div class="author">{{ link.authors }}</div>
     <div class="links">
       {% if link.conference %} 
-      <div class="periodical">Conference: <em>{{ link.conference }}</em>
+      <div class="periodical">presented at <em>{{ link.conference }}</em>
       </div>
       {% endif %}
       {% if link.pdf %} 
