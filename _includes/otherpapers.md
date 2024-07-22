@@ -11,7 +11,7 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
     <div class="links">
       {% if link.authors %} 
-      <div class="author">with <em>{{ link.authors }}</em>
+      <div class="periodical">with <em>{{ link.authors }}</em>
       </div>
       {% endif %}
       {% if link.pdf %} 
