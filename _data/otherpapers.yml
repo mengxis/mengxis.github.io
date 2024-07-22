@@ -1,7 +1,7 @@
 main:
 
   - title: Keyphrase Generation on News Articles
-    authors: Eric Zhou, <strong>Mengxi Sun*</strong>* (*Corresponding authors)
+    authors: Eric Zhou, <strong>Mengxi Sun*</strong> (*Corresponding authors)
     # conference_short: MICCAI
     # conference: 34th Stony Brook International Conference on Game Theory (2023).
     # pdf: assets/files/Keyphrase.pdf
