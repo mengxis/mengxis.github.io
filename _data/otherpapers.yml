@@ -5,6 +5,7 @@ main:
     # conference_short: MICCAI
     # conference: 34th Stony Brook International Conference on Game Theory (2023).
     pdf: assets/files/Keyphrase.pdf
+    poster: assets/poster/KeyphrasePoster.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
