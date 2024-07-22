@@ -1,0 +1,16 @@
+main:
+
+  - title: Keyphrase Generation on News Articles
+    authors: Eric Zhou, <strong>Mengxi Sun*</strong>* (*Corresponding authors)
+    # conference_short: MICCAI
+    # conference: 34th Stony Brook International Conference on Game Theory (2023).
+    # pdf: assets/files/Keyphrase.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: class project for CMU 11711 NLP (2021 Fall)
+
+  - title: Audience Costs of Insurgency: Civilian Casualties and Tolerance for Reintegration
+    # conference: 17th EGSC at WashU (2022, as ``Bayesian Persuasion with Confirmation Bias''), poster sessions at the Pennsylvania Economic Theory Conference and the Pitt Econ Medley Conference.
+    # pdf: assets/files/Misinterpreted_Persuasion.pdf
+    notes: Master's Thesis at UChicago Harris
