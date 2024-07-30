@@ -1,12 +1,13 @@
 main:
 
   - title: "Thoughts on Heterogenous Learning Types: Cognition and Language"
+    # pdf: 
 
   - title: Persuading a Behavioral Receiver
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
     # conference: 34th Stony Brook International Conference on Game Theory (2023).
-    pdf: ./assets/img/teaser_example_2.png
+    # pdf: 
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
