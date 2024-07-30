@@ -8,7 +8,7 @@ I am a Ph.D. student in Economics at the University of Pittsburgh. My research i
 
 {% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/notes.md %}
+{% include_relative _includes/workinprogress.md %}
 
 {% include_relative _includes/otherpapers.md %}
 
