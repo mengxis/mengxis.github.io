@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px 10px;">Work in Progress</h2>
+<h2 id="publications" style="margin: 2px 0px 10px;">Working Paper</h2>
 
-<div class="workinprogress">
+<div class="workingpapers">
 <ol class="bibliography">
 
-{% for link in site.data.workinprogress.main %}
+{% for link in site.data.workingpapers.main %}
 
 <li>
 <div class="pub-row">
