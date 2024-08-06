@@ -1,7 +1,7 @@
 main:
 
   - title: "Thoughts on Heterogenous Learning Types: Cognition and Language"
-    # pdf: 
+    pdf: ./assets/files/Epistemology.pdf
 
   - title: Persuading a Behavioral Receiver
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
