@@ -1,9 +1,9 @@
 main:
 
+  - title: "Using Models to Cheap Talk"
+
   - title: "Heterogenous Learning Types: Cognition and Language"
     # pdf: ./assets/files/Epistemology.pdf
-
-  - title: Persuading a Behavioral Receiver
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
     # conference: 34th Stony Brook International Conference on Game Theory (2023).
