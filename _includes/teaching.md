@@ -14,6 +14,6 @@
   <li>Intermediate Microeconomics (Spring 2023)</li>
   <li>Intermediate Macroeconomics(Fall 2021)</li>
   <li>Game Theory (Calculus-based) (Spring 2022)</li>
-  <li>Advanced Microeconomics for Policy Analysis I (Ph.D. level) (Fall 2018)</li>
+  <li>Advanced Microeconomics for Policy Analysis I (Ph.D. level at UChicago Harris) (Fall 2018)</li>
 </div>
 
