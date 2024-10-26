@@ -1,6 +1,4 @@
-<p></p>
-
-## Teaching
+# Teaching
 
 <h4 style="margin:0 10px 0;">Instructor:</h4>
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
