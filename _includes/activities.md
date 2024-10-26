@@ -1,4 +1,4 @@
-## Activities
+# Activities
 <div>
   <h4 style="margin:0 10px 0;">Conference Presentations: </h4>
   <div class="pub-row" style="position: relative;padding-right: 15px;padding-left: 20px;">
