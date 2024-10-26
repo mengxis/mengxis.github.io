@@ -1,4 +1,4 @@
-## Activities
+## Teaching
 
 <h4 style="margin:0 10px 0;"><li>Instructor: Game Theory (Calculus-based) (Summer 2023) </li></h4>
 
