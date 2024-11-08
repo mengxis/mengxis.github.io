@@ -3,6 +3,8 @@
 <h4 style="margin:0 10px 0;">Instructor:</h4>
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <li>Game Theory (Calculus-based) (Summer 2023) </li>
+  <a href="{{ assets/files/GT_syllabus.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Syllabus</a>
+  <a href="{{ assets/files/GT_eval.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Evaluatations</a>
 </div>
 
 
