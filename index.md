@@ -11,9 +11,9 @@ I am on the 2024-2025 job market and available for interviews.
 
 {% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/workinprogress.md %}
-
 {% include_relative _includes/otherpapers.md %}
+
+{% include_relative _includes/workinprogress.md %}
 
 {% include_relative _includes/activities.md %}
 
