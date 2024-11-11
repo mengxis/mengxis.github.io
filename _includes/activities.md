@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <h4 style="margin:0 10px 0;">Camp Participation: </h4>
+  <h4 style="margin:0 10px 0;">Summer Program Participation: </h4>
   <div class="pub-row" style="position: relative;padding-right: 15px;padding-left: 20px;">
     Asian School in Economic Theory (2023), RSF Summer Institute in Behavioral Economics (2024)
   </div>
