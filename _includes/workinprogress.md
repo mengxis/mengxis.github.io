@@ -13,7 +13,8 @@
     <div class="links">
       {% if link.abstract %}
       <details>
-          <a "link.abstract" ><summary>Abstract </summary><\a>
+        <summary>Abstract </summary>
+          {{link.abstract}}
       </details>
       {% endif %}
       {% if link.pdf %}
