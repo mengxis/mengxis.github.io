@@ -12,11 +12,10 @@
       <div class="author">{{ link.authors }}</div>
     <div class="links">
       {% if link.abstract %}
-      <p align="center">
       <details>
         <summary>Abstract </summary>
-          {{link.abstract}}
-      </details></p>
+        <p align="justify">{{link.abstract}}</p>
+      </details>
       {% endif %}
       {% if link.pdf %}
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NOTES</a>
