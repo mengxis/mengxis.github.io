@@ -1,6 +1,7 @@
 main:
 
-  - title: "Using Models to Cheap Talk"
+  - title: "Unifying Strategic Communication via Messages and Narratives"
+    abstract: This paper extends Schwartzstein and Sunderam (2021)'s narrative persuasion framework to account for the sender’s incentives. First, we establish the outcome equivalence between communication via messages, as in classic cheap talk models, and communication via narratives. Then, we propose a class of inferential deviations that accommoates both communication modes and explains susceptibility to misleading narratives without explicitly assuming a preference over models. In particular, we show that a rational cheap talk receiver may still be susceptible to narratives, holding outcome equivalent sender’s strategies across the two communication modes. Lastly, we specify examples of inferential deviations that capture behaviors related to narratives in the literature.
 
   - title: "Learning from Other Worldviews"
     # pdf: ./assets/files/Epistemology.pdf
