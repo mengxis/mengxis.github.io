@@ -11,7 +11,7 @@ main:
     # notes: draft coming soon
 
   - title: Misinterpreted Persuasion
-    conference: EGSC (as "Bayesian Persuasion with Confirmation Bias"), poster sessions at the PETCO and PEM.
+    # conference: (as "Bayesian Persuasion with Confirmation Bias"), poster sessions at the PETCO and PEM.
     pdf: assets/files/MP_JMP.pdf
     notes: JMP
     
