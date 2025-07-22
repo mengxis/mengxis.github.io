@@ -2,7 +2,7 @@
 <div>
   <h4 style="margin:0 10px 0;">Conference Presentations: </h4>
   <div class="pub-row" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    17th Economics Graduate Student Conference at WashU (2022), 34th Stony Brook International Conference on Game Theory (2023), 2024 ESA North America Meeting
+    Economics Graduate Student Conference at WashU (2022), Stony Brook International Conference on Game Theory (2023, 2025), ESA North America Meeting (2024), Berlin Micro Theory and Behavioral Economics PhD Conference (2025)
   </div>
 </div>
 
