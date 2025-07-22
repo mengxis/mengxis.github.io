@@ -11,6 +11,12 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
     <div class="links">
+      {% if link.abstract %}
+      <details>
+        <summary>Abstract </summary>
+        <p align="justify">{{link.abstract}}</p>
+      </details>
+      {% endif %}
       {% if link.conference %} 
       <div class="periodical">presented at <em>{{ link.conference }}</em>
       </div>
