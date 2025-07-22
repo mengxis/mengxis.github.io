@@ -2,6 +2,7 @@ main:
 
   - title: "Credibility vs. Context"
     abstract: This paper studies a (misspecified) model of inference from narratives by extending the framework of Schwartzstein and Sunderam (2021) to account for the sender’s incentives. First, we establish outcome equivalence under full rationality between communication via messages, as in classic cheap talk models, and communication via narratives. We then develop a unified framework that accommodates both communication modes and allows for misspecification, thereby explaining susceptibility to misleading narratives without assuming a preference over narratives. In particular, we show that even a rational receiver in a cheap talk setting may be vulnerable to persuasion through narratives, holding outcome equivalent sender’s strategies across the two communication modes. Finally, we present examples of narrative-driven behaviors observed in the literature as special cases of our framework. 
+    notes: draft in preparation
  
   - title: "Learning from Other Worldviews"
     # pdf: ./assets/files/Epistemology.pdf
