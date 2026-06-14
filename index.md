@@ -3,15 +3,13 @@ layout: homepage
 ---
 
 ## Hello!
-I am an ABD Ph.D. candidate in Economics at the University of Pittsburgh. My research lies at the intersection of information economics, behavioral economics, and game theory, focusing on how limitations in knowledge and control over the information environment shape communication and learning.
+I am an ABD Ph.D. candidate in Economics at the University of Pittsburgh. My research lies at the intersection of information economics, behavioral economics, and game theory, with a focus on how limitations in knowledge and control over the information environment shape communication and learning.
 
-I joined the University of Akron as a Visiting Assistant Professor in August 2025 and am on the 2025–2026 job market, available for interviews.
+I will join Tsinghua University as a postdoctoral researcher under the supervision of Dr. Zhen Zhou.
 
 
 
 {% include_relative _includes/workingpapers.md %}
-
-{% include_relative _includes/otherpapers.md %}
 
 {% include_relative _includes/workinprogress.md %}
 
